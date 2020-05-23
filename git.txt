@@ -1,1 +1,13 @@
-ldkfsdlkjf
+  511  cd Desktop/
+  512  mkdir gitden
+  519  cd gitden/
+  521  git init  
+  526  vim deme.txt
+  530  git remote add orgin https://github.com/huseyinguzel067/jenkins
+  531  git pull orgin master
+  533  git add  .
+  534  git commit -m "iki"
+  535  git status 
+  536  git pull orgin master
+  537  git push orgin master
+
